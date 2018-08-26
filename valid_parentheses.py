@@ -10,11 +10,6 @@ Note that an empty string is also considered valid.
 '''
 
 def isValid(s):
-    """
-    :type s: str
-    :rtype: bool
-    """
-
     stack = []
     dict = {"]": "[", "}": "{", ")": "("}
     for char in s:
