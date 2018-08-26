@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="str_to_int.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="str_to_int.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/str_to_int.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
               <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valid_parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -68,6 +75,7 @@
         <option value="$PROJECT_DIR$/revInt.py" />
         <option value="$PROJECT_DIR$/palindrome.py" />
         <option value="$PROJECT_DIR$/str_to_int.py" />
+        <option value="$PROJECT_DIR$/valid_parentheses.py" />
       </list>
     </option>
   </component>
@@ -116,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.str_to_int">
+  <component name="RunManager" selected="Python.valid_parentheses">
     <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,13 +179,33 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="valid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valid_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.revInt" />
       <item itemvalue="Python.palindrome" />
       <item itemvalue="Python.str_to_int" />
+      <item itemvalue="Python.valid_parentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valid_parentheses" />
         <item itemvalue="Python.str_to_int" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.revInt" />
@@ -272,6 +300,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
