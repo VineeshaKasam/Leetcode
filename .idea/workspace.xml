@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/remove_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valid_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/valid_parentheses.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="remove the duplicates from a sorted array and return the length" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,42 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="twoSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twoSum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverse.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="str_to_int.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/str_to_int.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="valid_parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remove_duplicates.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="remove_duplicates.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remove_duplicates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remove_element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/remove_element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -90,10 +59,11 @@
         <option value="$PROJECT_DIR$/str_to_int.py" />
         <option value="$PROJECT_DIR$/valid_parentheses.py" />
         <option value="$PROJECT_DIR$/remove_duplicates.py" />
+        <option value="$PROJECT_DIR$/remove_element.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-31" />
     <option name="y" value="23" />
     <option name="width" value="1378" />
@@ -138,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remove_duplicates">
+  <component name="RunManager" selected="Python.remove_element">
     <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +145,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="revInt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remove_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\khyati\Desktop\GitHubRepos\Leetcode\reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,19 +200,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.revInt" />
       <item itemvalue="Python.palindrome" />
       <item itemvalue="Python.str_to_int" />
       <item itemvalue="Python.valid_parentheses" />
       <item itemvalue="Python.remove_duplicates" />
+      <item itemvalue="Python.remove_element" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_element" />
         <item itemvalue="Python.remove_duplicates" />
         <item itemvalue="Python.valid_parentheses" />
         <item itemvalue="Python.str_to_int" />
         <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.revInt" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +231,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14787701" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -346,7 +317,14 @@
     <entry file="file://$PROJECT_DIR$/remove_duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
