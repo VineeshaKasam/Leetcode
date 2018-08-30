@@ -11,15 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="haystack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/haystack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="searchInsert.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searchInsert.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lastWordLen.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lastWordLen.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lastWordLen.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plusOne.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plusOne.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -74,6 +74,7 @@
         <option value="$PROJECT_DIR$/searchInsert.py" />
         <option value="$PROJECT_DIR$/countandSay.py" />
         <option value="$PROJECT_DIR$/lastWordLen.py" />
+        <option value="$PROJECT_DIR$/plusOne.py" />
       </list>
     </option>
   </component>
@@ -124,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lastWordLen">
+  <component name="RunManager" selected="Python.plusOne">
     <configuration name="countandSay" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +180,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plusOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plusOne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,14 +217,15 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.palindrome" />
       <item itemvalue="Python.haystack" />
       <item itemvalue="Python.searchInsert" />
       <item itemvalue="Python.countandSay" />
       <item itemvalue="Python.lastWordLen" />
+      <item itemvalue="Python.plusOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plusOne" />
         <item itemvalue="Python.lastWordLen" />
         <item itemvalue="Python.countandSay" />
         <item itemvalue="Python.searchInsert" />
@@ -480,6 +482,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plusOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
