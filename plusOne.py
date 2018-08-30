@@ -2,7 +2,7 @@
 Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
 '''
 
-def plusOne(digits):
+def plusOne(    digits):
     theint = int("".join([str(i) for i in digits])) + 1
 
     new_list = []
