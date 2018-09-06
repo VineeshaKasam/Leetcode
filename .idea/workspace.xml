@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="singleOccur.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="singleOccur.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/singleOccur.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="238">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="squareRoot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/squareRoot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/sameTree.py" />
         <option value="$PROJECT_DIR$/pascalTriangle.py" />
         <option value="$PROJECT_DIR$/singleOccur.py" />
+        <option value="$PROJECT_DIR$/squareRoot.py" />
       </list>
     </option>
   </component>
@@ -140,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.singleOccur">
+  <component name="RunManager" selected="Python.squareRoot">
     <configuration name="deleteDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,24 +205,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="plusOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plusOne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="singleOccur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,20 +223,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="squareRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squareRoot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.plusOne" />
       <item itemvalue="Python.deleteDuplicates" />
       <item itemvalue="Python.mergeSortedArray" />
       <item itemvalue="Python.pascalTriangle" />
       <item itemvalue="Python.singleOccur" />
+      <item itemvalue="Python.squareRoot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.squareRoot" />
         <item itemvalue="Python.singleOccur" />
         <item itemvalue="Python.pascalTriangle" />
         <item itemvalue="Python.mergeSortedArray" />
         <item itemvalue="Python.deleteDuplicates" />
-        <item itemvalue="Python.plusOne" />
       </list>
     </recent_temporary>
   </component>
@@ -593,8 +603,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/singleOccur.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/squareRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
