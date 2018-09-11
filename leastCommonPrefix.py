@@ -15,6 +15,15 @@ def lcp(strlist):
                 count+=1
         if count==len(strlist):
             lcp+=letter
+
+    for i in range(0,len(lcp)):
+        all_chars = [s[i] for s in strlist]
+
+        bools = [lcp[i]==charc for charc in all_chars]
+        if False not in bools:
+            return lcp
+        else:
+            return ''
     return lcp
 
 
