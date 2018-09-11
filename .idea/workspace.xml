@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="remove the duplicates from a sorted array and return the length">
-      <change beforePath="$PROJECT_DIR$/leastCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/leastCommonPrefix.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="remove the duplicates from a sorted array and return the length" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leastCommonPrefix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leastCommonPrefix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leastCommonPrefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="408">
               <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maxSubArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maxSubArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -96,6 +103,7 @@
         <option value="$PROJECT_DIR$/addBinary.py" />
         <option value="$PROJECT_DIR$/climbStairs.py" />
         <option value="$PROJECT_DIR$/leastCommonPrefix.py" />
+        <option value="$PROJECT_DIR$/maxSubArray.py" />
       </list>
     </option>
   </component>
@@ -147,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leastCommonPrefix">
+  <component name="RunManager" selected="Python.maxSubArray">
     <configuration name="addBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,6 +210,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="maxSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxSubArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="romanToInt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,38 +246,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="squareRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squareRoot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.squareRoot" />
       <item itemvalue="Python.romanToInt" />
       <item itemvalue="Python.leastCommonPrefix" />
       <item itemvalue="Python.addBinary" />
       <item itemvalue="Python.climbStairs" />
+      <item itemvalue="Python.maxSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maxSubArray" />
         <item itemvalue="Python.leastCommonPrefix" />
         <item itemvalue="Python.climbStairs" />
         <item itemvalue="Python.addBinary" />
         <item itemvalue="Python.romanToInt" />
-        <item itemvalue="Python.squareRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -309,13 +317,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="find the least common prefix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/squareRoot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/romanToInt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -645,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addBinary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/climbStairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -659,10 +653,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/addBinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leastCommonPrefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="408">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
