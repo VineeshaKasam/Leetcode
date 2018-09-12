@@ -38,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validPalindrome.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="validPalindrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/validPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minStack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/minStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -87,10 +96,11 @@
         <option value="$PROJECT_DIR$/leastCommonPrefix.py" />
         <option value="$PROJECT_DIR$/maxSubArray.py" />
         <option value="$PROJECT_DIR$/validPalindrome.py" />
+        <option value="$PROJECT_DIR$/minStack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-31" />
     <option name="y" value="23" />
     <option name="width" value="1378" />
@@ -268,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14787701" />
@@ -300,13 +310,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="find the least common prefix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deleteDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mergeSortedArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -654,6 +657,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
