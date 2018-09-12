@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minStack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="minStack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minStack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MajorityElement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MajorityElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -97,6 +106,7 @@
         <option value="$PROJECT_DIR$/maxSubArray.py" />
         <option value="$PROJECT_DIR$/validPalindrome.py" />
         <option value="$PROJECT_DIR$/minStack.py" />
+        <option value="$PROJECT_DIR$/MajorityElement.py" />
       </list>
     </option>
   </component>
@@ -148,8 +158,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.validPalindrome">
-    <configuration name="addBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MajorityElement">
+    <configuration name="MajorityElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/addBinary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MajorityElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,18 +251,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.leastCommonPrefix" />
-      <item itemvalue="Python.addBinary" />
       <item itemvalue="Python.climbStairs" />
       <item itemvalue="Python.maxSubArray" />
       <item itemvalue="Python.validPalindrome" />
+      <item itemvalue="Python.MajorityElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MajorityElement" />
         <item itemvalue="Python.validPalindrome" />
         <item itemvalue="Python.maxSubArray" />
         <item itemvalue="Python.leastCommonPrefix" />
         <item itemvalue="Python.climbStairs" />
-        <item itemvalue="Python.addBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -310,13 +320,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="find the least common prefix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mergeSortedArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sameTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -662,8 +665,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/minStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MajorityElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
