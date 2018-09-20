@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="remove the duplicates from a sorted array and return the length" />
+    <list default="true" id="2a2179ab-10d2-4063-b33a-c062c0aa75df" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buysellstock.py" beforeDir="false" afterPath="$PROJECT_DIR$/buysellstock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelOrderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/levelOrderTraversal.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,56 +15,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="addBinary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addBinary.py">
+      <file leaf-file-name="insersectionLL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/insersectionLL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="493">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="climbStairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/climbStairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validPalindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validPalindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minStack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minStack.py">
+      <file leaf-file-name="levelOrderTraversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/levelOrderTraversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MajorityElement.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MajorityElement.py">
+      <file leaf-file-name="buysellstock.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buysellstock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trailingzeros.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trailingzeros.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -107,6 +93,24 @@
         <option value="$PROJECT_DIR$/validPalindrome.py" />
         <option value="$PROJECT_DIR$/minStack.py" />
         <option value="$PROJECT_DIR$/MajorityElement.py" />
+        <option value="$PROJECT_DIR$/Excel_sheet_columns.py" />
+        <option value="$PROJECT_DIR$/excel_sheet_column_number.py" />
+        <option value="$PROJECT_DIR$/twosum2.py" />
+        <option value="$PROJECT_DIR$/linkedlistCycle.py" />
+        <option value="$PROJECT_DIR$/SymmetricTreeRecursive.py" />
+        <option value="$PROJECT_DIR$/SymmetricTreeIterative.py" />
+        <option value="$PROJECT_DIR$/mergeSortedLinkedLists.py" />
+        <option value="$PROJECT_DIR$/mergeSortedLinkedListsIterative.py" />
+        <option value="$PROJECT_DIR$/sortedArraytoBST.py" />
+        <option value="$PROJECT_DIR$/minDepthBinaryTree.py" />
+        <option value="$PROJECT_DIR$/treePathSum.py" />
+        <option value="$PROJECT_DIR$/maxDepthBinaryTree.py" />
+        <option value="$PROJECT_DIR$/balancedBinaryTree.py" />
+        <option value="$PROJECT_DIR$/insersectionLL.py" />
+        <option value="$PROJECT_DIR$/trailingzeros.py" />
+        <option value="$PROJECT_DIR$/levelOrderTraversal.py" />
+        <option value="$PROJECT_DIR$/buysellstock.py" />
+        <option value="$PROJECT_DIR$/pascalsTriangle2.py" />
       </list>
     </option>
   </component>
@@ -158,7 +162,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MajorityElement">
+  <component name="RunManager" selected="Python.mergeSortedLinkedLists">
+    <configuration name="Excel_sheet_columns" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_sheet_columns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="MajorityElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +199,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="climbStairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="excel_sheet_column_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,13 +211,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/climbStairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel_sheet_column_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leastCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mergeSortedLinkedLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,13 +229,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leastCommonPrefix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mergeSortedLinkedLists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="maxSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twosum2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,44 +247,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxSubArray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="validPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validPalindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twosum2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.leastCommonPrefix" />
-      <item itemvalue="Python.climbStairs" />
-      <item itemvalue="Python.maxSubArray" />
-      <item itemvalue="Python.validPalindrome" />
       <item itemvalue="Python.MajorityElement" />
+      <item itemvalue="Python.Excel_sheet_columns" />
+      <item itemvalue="Python.excel_sheet_column_number" />
+      <item itemvalue="Python.twosum2" />
+      <item itemvalue="Python.mergeSortedLinkedLists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergeSortedLinkedLists" />
+        <item itemvalue="Python.twosum2" />
+        <item itemvalue="Python.excel_sheet_column_number" />
+        <item itemvalue="Python.Excel_sheet_columns" />
         <item itemvalue="Python.MajorityElement" />
-        <item itemvalue="Python.validPalindrome" />
-        <item itemvalue="Python.maxSubArray" />
-        <item itemvalue="Python.leastCommonPrefix" />
-        <item itemvalue="Python.climbStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -284,21 +288,140 @@
       <option name="project" value="LOCAL" />
       <updated>1536389485065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added columns titles for MS Excel sheets">
+      <created>1536955151482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536955151482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added conversion of excel sheet title to respective column number">
+      <created>1536960232812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536960232812</updated>
+    </task>
+    <task id="LOCAL-00004" summary="two sum when the list is sorted">
+      <created>1536984400657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536984400657</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Determine if there is a cycle in linked list">
+      <created>1536984869789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536984869789</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added symmetric tree recursive">
+      <created>1537051760469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537051760469</updated>
+    </task>
+    <task id="LOCAL-00007" summary="merging two sorted linked lists recursive">
+      <created>1537062142690</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537062142690</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added merging sorted linked lists iteratively">
+      <created>1537062223684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537062223684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added finding maximum depth of binary tree recursively">
+      <created>1537133049951</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537133049952</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added converting a sorted array to BST">
+      <created>1537149916166</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537149916166</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added minimum depth of the binary tree">
+      <created>1537151651709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537151651709</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added if tree has the given path sum">
+      <created>1537168905715</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537168905715</updated>
+    </task>
+    <task id="LOCAL-00013" summary="determine if the binary tree is balanced">
+      <created>1537216251240</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537216251240</updated>
+    </task>
+    <task id="LOCAL-00014" summary="intersection of two single linked lists">
+      <created>1537238709514</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537238709515</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added buy and sell stock for max profit">
+      <created>1537301291465</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537301291465</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added finding trailing zeros of n!">
+      <created>1537339045745</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537339045745</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added binary tree level order traversal">
+      <created>1537397082769</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537397082769</updated>
+    </task>
+    <task id="LOCAL-00018" summary="get the row of pascals triangle starting from 0">
+      <created>1537397598803</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537397598803</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14787701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14787701" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Tool Output" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="ANTLR Preview" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36212122" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2621212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -317,135 +440,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="find the least common prefix" />
-    <option name="LAST_COMMIT_MESSAGE" value="find the least common prefix" />
+    <MESSAGE value="Added columns titles for MS Excel sheets" />
+    <MESSAGE value="added conversion of excel sheet title to respective column number" />
+    <MESSAGE value="two sum when the list is sorted" />
+    <MESSAGE value="Determine if there is a cycle in linked list" />
+    <MESSAGE value="added symmetric tree recursive" />
+    <MESSAGE value="merging two sorted linked lists recursive" />
+    <MESSAGE value="added merging sorted linked lists iteratively" />
+    <MESSAGE value="added finding maximum depth of binary tree recursively" />
+    <MESSAGE value="added converting a sorted array to BST" />
+    <MESSAGE value="added minimum depth of the binary tree" />
+    <MESSAGE value="added if tree has the given path sum" />
+    <MESSAGE value="determine if the binary tree is balanced" />
+    <MESSAGE value="intersection of two single linked lists" />
+    <MESSAGE value="added buy and sell stock for max profit" />
+    <MESSAGE value="added finding trailing zeros of n!" />
+    <MESSAGE value="added binary tree level order traversal" />
+    <MESSAGE value="get the row of pascals triangle starting from 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="get the row of pascals triangle starting from 0" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sameTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/searchInsert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countandSay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lastWordLen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plusOne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deleteDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haystack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/searchInsert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/str_to_int.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remove_duplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remove_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -635,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pascalTriangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/climbStairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -672,8 +679,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MajorityElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_sheet_columns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_sheet_column_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twosum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlistCycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymmetricTreeRecursive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymmetricTreeIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeSortedLinkedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeSortedLinkedListsIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortedArraytoBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treePathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minDepthBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxDepthBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="75" lean-forward="true" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/balancedBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="75" lean-forward="true" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pascalTriangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trailingzeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insersectionLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pascalsTriangle2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buysellstock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/levelOrderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>

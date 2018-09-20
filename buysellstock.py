@@ -5,7 +5,7 @@ If you were only permitted to complete at most one transaction (i.e., buy one an
 design an algorithm to find the maximum profit.
 '''
 
-def maxProfit(self, prices):
+def maxProfit(prices):
 
     max_profit, min_price = 0, float('inf')
 

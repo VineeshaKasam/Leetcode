@@ -3,7 +3,7 @@ Given a binary tree, return the bottom-up level order traversal of its nodes' va
 level by level from leaf to root).
 '''
 
-def levelOrderBottom(self, root):
+def levelOrderBottom(root):
     if root:
         nodes = [root]
     else:
