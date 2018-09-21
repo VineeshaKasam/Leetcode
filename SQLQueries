@@ -1,0 +1,5 @@
+# combine two tables
+select FirstName, LastName, City, State from Person left outer join Address on Person.PersonId = Address.PersonId;
+
+# second highest salary
+select max(Salary) as SecondHighestSalary from Employee where Salary not in (select max(Salary) from Employee);
