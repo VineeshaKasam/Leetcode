@@ -26,3 +26,4 @@ class Solution(object):
                 head = head.next
 
         return dummy.next
+    
