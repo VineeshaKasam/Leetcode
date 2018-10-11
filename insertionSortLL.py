@@ -10,10 +10,6 @@ class ListNode(object):
 
 class Solution(object):
     def insertionSortList(self, head):
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
         cur = dummy = ListNode(0)
 
         while head is not None:
