@@ -13,11 +13,6 @@ class TreeNode(object):
         self.right = None
 
     def buildTree(self, preorder, inorder):
-        """
-        :type preorder: List[int]
-        :type inorder: List[int]
-        :rtype: TreeNode
-        """
         if inorder:
             idx = inorder.index(preorder.pop(0))
 
