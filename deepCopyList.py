@@ -4,6 +4,7 @@ list or null.
 
 Return a deep copy of the list.
 '''
+import collections
 # Definition for singly-linked list with a random pointer.
 class RandomListNode(object):
     def __init__(self, x):
