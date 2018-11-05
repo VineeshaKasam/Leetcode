@@ -15,15 +15,16 @@ class ListNode(object):
         self.val = x
         self.next = None
 
-        def reverseList(self, head):
+    def reverseList(self, head):
 
-            pre = None
-            self.rev(head, pre)
+        pre = None
+        return self.reverse(head, pre)
 
-        def rev(self, node, pre):
-            if not node:
-                return
-            n = node.next
-            node.next = pre
 
-            self.rev(n, node)
+    def reverse(self, node, pre):
+        if not node:
+            return pre
+        n = node.next
+        node.next = pre
+
+        self.reverse(n, node)
